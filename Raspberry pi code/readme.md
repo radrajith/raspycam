@@ -6,4 +6,6 @@ To download the omxplayer wrapper
 
 ```git clone https://github.com/willprice/python-omxplayer-wrapper ```
 
-```python setup.py install```
+```cd python-omxplayer-wrapper```
+
+```sudo python setup.py install```
